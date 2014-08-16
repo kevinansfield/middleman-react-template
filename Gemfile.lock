@@ -7,6 +7,10 @@ GEM
       minitest (~> 5.1)
       thread_safe (~> 0.1)
       tzinfo (~> 1.1)
+    bitters (0.10.0)
+      bourbon (>= 3.2)
+      sass (>= 3.2)
+      thor
     bourbon (4.0.2)
       sass (~> 3.3)
       thor
@@ -127,6 +131,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  bitters
   bourbon
   compass (~> 1.0.0.alpha.19)
   middleman (~> 3.3.5)
