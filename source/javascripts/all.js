@@ -1,1 +1,4 @@
-//= require_tree .
+//= require react
+//= require_dir ./components
+
+//= require todo
