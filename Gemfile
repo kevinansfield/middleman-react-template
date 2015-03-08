@@ -13,8 +13,8 @@ gem "wdm", "~> 0.1.0", :platforms => [:mswin, :mingw]
 # Windows does not come with time zone data
 gem "tzinfo-data", platforms: [:mswin, :mingw]
 
-gem 'sass', '~> 3.3.7'
-gem 'compass', '~> 1.0.0.alpha.19'
+gem 'sass', '~> 3.4'
+gem 'compass', '~> 1.0.0'
 gem 'bourbon'
 gem 'neat'
 gem 'bitters'
